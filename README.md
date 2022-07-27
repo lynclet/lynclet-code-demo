@@ -1,4 +1,11 @@
-# lynclet-code-demo
+
+LYNCLET.COM
 
 
-Use the code in index.html as an example.
+# Add Live chat application widget to your website 
+
+Use this example project as a reference. 
+
+The script that you copy from lynclet.com should be pasted in your index.html file right before the closing body tag (</body>) 
+
+For more details refer to our index.html file in this repo.
